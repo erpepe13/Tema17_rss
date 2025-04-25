@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Pepe</title>
+        <link>file:///C:/Users/Alumno2/Desktop/Webportafolio/index.html</link>
+        <description></description>
+        <item>
+            <title>Sobre mi</title>
+            <link>file:///C:/Users/Alumno2/Desktop/Webportafolio/p1.html</link>
+            <description>Actualizar la informacion de datos sobre mi</description>
+        </item>
+    </channel>
+</rss>
